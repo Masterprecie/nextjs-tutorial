@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Wave hello! 👋",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Get Coffee ☕☕☕",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "bake",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "cook",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "hey",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "wash",
+      "id": 8
+    }
+  ]
+}
